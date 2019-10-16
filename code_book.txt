@@ -1,0 +1,19 @@
+#Code book
+
+first_names     Respondent first name   
+last_names      Respondent last name
+income_unit     Income reponse unit (weekly, monthly, yearly) 
+income          Income for unit   
+annual_income   Annual income (auto created)
+expense_unit    HH expense unit (weekly, monthly, yearly)   
+expense         Income for unit   
+annual_expense  Annual expense (auto created) 
+annual_pet_expense Annual estimated pet expesne
+gained_pet      Added pet to HH 
+lost_pet        lost pet in HH 
+happiness       happiness rating score (scale from 0 (unhappy) to 30 (happy))  
+age_respondent  respondents age   
+female_respondent  sex of respondent (code 1 = female, 0 = male, 2 = prefer not to say/other)
+cats_n_dogs     HH has both cats and dogs (code 1=yes, 0=no)
+dog_register    if dog owner are dogs registered (code 1=yes, 0=no)
+case_id  
